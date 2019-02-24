@@ -7,7 +7,7 @@
 <h3>Hello World!</h3>
   
 <?php
-echo "ver: 2.0";
+echo "ver: 3.0";
 ?>
 
 </body>
