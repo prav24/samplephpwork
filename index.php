@@ -1,5 +1,5 @@
 <!
-<html lang="en">
+<html>
 <head>
     <title>My first DevOps Project</title>
 </head>
@@ -11,8 +11,8 @@
   
 <?php
 echo "ver: 3.1";
-\n 
- echo "- Praveen";
+
+ echo "\n - Praveen";
 ?>
 
 </body>
