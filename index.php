@@ -8,8 +8,7 @@
   
 <?php
 echo "ver: 3.1";
-  <br>
- echo " - Praveen"
+ echo "- Praveen";
 ?>
 
 </body>
