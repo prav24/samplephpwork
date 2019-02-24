@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<h1>Welcome to First DevOps Class - slow motion</h1>
-<h1>Testing manual process of devops</h1>
+<h1>My first DevOps project </h1>
+<h1>Testing manual process of DevOps</h1>
 
 <?php
-echo "Ver: 2.0";
+echo "ver: 2.0";
 ?>
 
 </body>
